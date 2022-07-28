@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Sedulous Programmer.
 - 🌱 I Love to explore Data.
-- 🎇
+- 🎇 I Like solving Problems.
 - 👯 I’m looking to collaborate on Data Science and ML.
 - 🤔 I’m looking for help with Open Source Projects.
 - 💬 Ask me about Data Science and Machine Learning.
