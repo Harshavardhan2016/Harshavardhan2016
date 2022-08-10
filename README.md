@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Data Science and ML.
 - 🤔 I’m looking for help with Open Source Projects.
 - 💬 Ask me about Data Science and Machine Learning.
-- 📫 How to reach me: <a href= "https://www.linkedin.com/in/harsha-vardhan-b-106840192/">LinkedIn</a>, <a href="harshavardhan.bathsala@gmail.com">Mail</a>
+- 📫 How to reach me: <a href= "https://www.linkedin.com/in/harsha-vardhan-b-106840192/">LinkedIn</a>, <a href="harshavardhan.bathsala@gmail.com">Mail</a>, <a href= "https://www.hackerrank.com/harshavardhan_42?hr_r=1"> HackerRank</a>
 <br><br>
 
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=Harshavardhan2016&show_icons=true"></p>
@@ -19,6 +19,7 @@
 
 - Linkedin : https://www.linkedin.com/in/harsha-vardhan-b-106840192/
 - Email : harshavardhan.bathsala@gmail.com
+- Hackerrank : https://www.hackerrank.com/harshavardhan_42?hr_r=1
 
 <!---
 Harshavardhan2016/Harshavardhan2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
