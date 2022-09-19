@@ -1,4 +1,4 @@
-# Harshavardhan
+# Harsha vardhan
 ### Hi there, This is Harshavardhan <img src="https://media.giphy.com/media/oEuOH7aNSRht4Jx4K9/giphy.gif" width="80"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=Harshavardhan2016&color=yellow) <p><em> 
 </em></p> </div>
 
