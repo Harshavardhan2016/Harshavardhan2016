@@ -9,7 +9,7 @@
 - 🎇 I Like solving Problems.
 - 👯 I’m looking to collaborate on Data Science and ML.
 - 🤔 I’m looking for help with Open Source Projects.
-- 💬 Ask me about Data Science and Machine Learning.
+- 💬 Ask me about Data Science, Programming and Machine Learning.
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/harsha-vardhan-b-106840192/">LinkedIn</a>, <a href="harshavardhan.bathsala@gmail.com">Mail</a>, <a href= "https://www.hackerrank.com/harshavardhan_42?hr_r=1"> HackerRank</a>
 <br><br>
 
